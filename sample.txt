@@ -1,1 +1,2 @@
 Hello
+Pull: Lấy nội dung của remote repository
